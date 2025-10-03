@@ -21,6 +21,3 @@ Ejemplo de modelo ER extendido
      |
      +-- [Administrativo]
 ```
-
-![1757671833615](images/04_modelo_er_extendido/1757671833615.png)
-

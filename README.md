@@ -46,10 +46,10 @@ Se incluyen modelos y scripts SQL de ejemplos como:
 ## 🧪 Evaluación continua
 
 La asignatura se evalúa mediante:
-- Paciales (25%)
-- Evaluación Contniua (talleres, questionarios) (20%)
-- Participación e interés (5%)
-- Exámen final (50%)
+- Prácticas (30%)
+- Quices teóricos (20%)
+- Proyecto intermedio (20%)
+- Parcial (30%)
 
 ### 🎯 Competencias evaluadas
 
