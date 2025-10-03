@@ -9,7 +9,6 @@ Elementos básicos:
 
 El modelo ER simple es la base para representar información de forma clara.
 
-
 Ejemplo de modelo ER simple
 
 ```
@@ -17,4 +16,7 @@ Ejemplo de modelo ER simple
    |                           |
  nombre                        precio
  dirección                     stock
+
+![1757671909835](images/03_modelo_er_simple/1757671909835.png)
 ```
+
